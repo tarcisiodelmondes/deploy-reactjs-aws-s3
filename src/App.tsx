@@ -2,9 +2,9 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      Study of deploying React applications on AWS S3 with Github Actions
-    </div>
+    <h1 className="App">
+      Deploy React Applications on AWS S3 with Github Actions
+    </h1>
   );
 }
 
